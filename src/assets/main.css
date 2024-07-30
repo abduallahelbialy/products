@@ -1,0 +1,12 @@
+:root{
+  --main-color:#ddd;
+}
+body{
+  background-color: #F1F1F1;
+}
+.p-rating {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 5px !important;
+}
