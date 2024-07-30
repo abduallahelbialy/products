@@ -172,7 +172,7 @@ export default {
 }
 @media (max-width: 477px) {
   .imgprod {
-    width: 350px;
+    width: 340px;
     height: 350px;
     margin: auto;
     padding: 10px;
